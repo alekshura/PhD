@@ -1,4 +1,4 @@
-# About
+#About
 
 There occur in nature about 300 nuclei, representing isotopes of
 elements containing from one to at most 94 protons. Some 2200
