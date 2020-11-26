@@ -89,7 +89,7 @@ proton and neutron shells.
 
 Intensive experimental studies of SHE cause a fast increase of
 spectroscopic data for nuclei from these region. The data comes almost exclusively from
-measurements of \alpha-particle energies appearing in
+measurements of *alpha*-particle energies appearing in
 alpha-decay chains, mainly of odd-*A* nuclei.
 Gamma-spectroscopic studies, which are also intensive in recent
 years, are done for lighter nuclei (up to rutherfordium, *Z*=104) and only approach
@@ -109,14 +109,14 @@ energies, half-lives of all nuclei in *alpha*-decay chain of
 synthesized nucleus and spontaneous fission residues of known
 nucleus.
 
-There is a close connection of *alpha*-spectroscopy with
-gamma-spectroscopy: using the information about excited states
-(their energies and quantum characteristics) of a superheavy
-nucleus, one can estimate the probabilities of *alpha*-transition to
-the excited states of daughter nuclei and compare them to the
-probability of *gamma*-transitions to the states in the parent
-nuclei. In such a way it is possible to interpret an experimental
-data from *alpha*-decay chains.
+>There is a close connection of *alpha*-spectroscopy with
+>gamma-spectroscopy: using the information about excited states
+>(their energies and quantum characteristics) of a superheavy
+>nucleus, one can estimate the probabilities of *alpha*-transition to
+>the excited states of daughter nuclei and compare them to the
+>probability of *gamma*-transitions to the states in the parent
+>nuclei. In such a way it is possible to interpret an experimental
+>data from *alpha*-decay chains.
 
 
 In present paper theoretical calculations of one-quasiparticle
