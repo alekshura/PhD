@@ -5,7 +5,7 @@ elements containing from one to at most 94 protons. Some 2200
 nuclei have been made artificially during the past 70 years. The
 artificial, heavy and superheavy elements, synthesized in
 scientific laboratories, have at present a mass numbers starting
-up to Z=116.
+up to *Z*=116.
 Ds (experimentally were observed nuclei with proton number up to 116, but there no an official name for these elements).
 
 ## An importance of shell effects.
@@ -25,7 +25,7 @@ of the first "transuranium" elements - such as plutonium, curium
 and californium - were very close to the values predicted by the
 liquid-drop model. In 1962, however, it was found that many
 isotopes of transuranium elements which have a very low excitation
-energy undergo spontaneous fission in just $10^{-10}-10^{-2}$ s.
+energy undergo spontaneous fission in just *10^{-10}-10^{-2}* s.
 This is inconsistent with the liquid-drop model predictions.
 Furthermore, the model could not account for considerable
 variations in the spontaneous-fission half-lives of these
@@ -36,8 +36,8 @@ fission depends on the internal structure of the nucleus. It was
 well known, for example, that the total nuclear binding energies
 measured in experiments deviated from the predictions of the
 liquid-drop model in a regular way. The binding energies were
-highest for specific numbers of protons, Z=2, 8, 20, 28, 50,
-82, and neutrons, N=2, 8, 20, 50, 82, 126. These "magic"
+highest for specific numbers of protons, *Z*=2, 8, 20, 28, 50,
+82, and neutrons, *N*=2, 8, 20, 50, 82, 126. These "magic"
 numbers of protons and neutrons are called closed shells, and are
 similar to the electron shells of atomic physics.
 
@@ -47,18 +47,17 @@ of protons and neutrons allow nuclei to be stable beyond the
 limits defined by the liquid-drop model (i.e. for atomic numbers
 greater than 106). Initially, there were the studies of spherical
 nuclei surrounding the expected doubly
-magic nucleus with Z=114 protons and *N*=184 neutrons. Indeed, the lifetimes of superheavy nuclei in
+magic nucleus with *Z*=114 protons and *N*=184 neutrons. Indeed, the lifetimes of superheavy nuclei in
 the *N*=184 region are predicted to be up to 30 orders of
 magnitude longer than they would be in the absence of shells.
 Later, the analysis of half-lives has shown that also deformed
-superheavy nuclei, situated around the nucleus with Z=108 and
-$N$=162, may have long enough lifetimes to be observed.
+superheavy nuclei, situated around the nucleus with *Z*=108 and
+*N*=162, may have long enough lifetimes to be observed.
 
-The shell effect was predicted to be particularly strong for
-nuclei with magic numbers *Z*=108 and *N*=162, and even
-stronger for nuclei with *Z*=114 and *N*=184
-- which is why these regions came to be known as "islands of
-stability".
+>The shell effect was predicted to be particularly strong for
+>nuclei with magic numbers *Z*=108 and *N*=162, and even
+>stronger for nuclei with *Z*=114 and *N*=184 - which is why these regions came to be known as "islands of
+>stability".
 
 Stability of these SHE is closely connected with their shell
 structure. Significance of the shell effects is fundamental, since
@@ -90,7 +89,7 @@ proton and neutron shells.
 
 Intensive experimental studies of SHE cause a fast increase of
 spectroscopic data for nuclei from these region. The data comes almost exclusively from
-measurements of alpha-particle energies appearing in
+measurements of \alpha-particle energies appearing in
 alpha-decay chains, mainly of odd-*A* nuclei.
 Gamma-spectroscopic studies, which are also intensive in recent
 years, are done for lighter nuclei (up to rutherfordium, *Z*=104) and only approach
